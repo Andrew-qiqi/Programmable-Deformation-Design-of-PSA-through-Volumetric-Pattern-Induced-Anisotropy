@@ -30,9 +30,12 @@ Suggested label on the poster:
 Paper & Updates
 ```
 
-Ready-to-use QR asset:
+Ready-to-use QR assets:
 
-![Project page QR code](assets/project-page-qr.png)
+- Circular badge version for the poster: [`assets/project-page-qr-circle.png`](assets/project-page-qr-circle.png)
+- Plain square version: [`assets/project-page-qr.png`](assets/project-page-qr.png)
+
+![Project page QR code](assets/project-page-qr-circle.png)
 
 The QR code should point to this repository page rather than directly to arXiv, so future paper links, videos, datasets, or contact information can be updated here without changing the printed poster.
 
